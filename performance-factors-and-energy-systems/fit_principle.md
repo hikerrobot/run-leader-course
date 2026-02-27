@@ -1,0 +1,5 @@
+# FIT
+
+- Frequency
+- Intensity
+- Time
